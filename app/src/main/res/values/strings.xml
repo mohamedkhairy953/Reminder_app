@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contacting</string>
+    <array name="dialogItems">
+        <item>show facebook profile</item>
+        <item>delete</item>
+        <item>notify me on reminder date</item>
+    </array>
+</resources>
